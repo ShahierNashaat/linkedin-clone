@@ -4,8 +4,7 @@
 
 > Project that is a clone from linkedin website that enabels you to make connections and post jobs.
 
-This is a website that displaying an updated data about COVID cases in every country and in every region
-in the country if it was available.
+This is a website that enables you to create a profile that you can share your achievements on it, make connections with other people and post jobs.
 
 ## Built With
 
